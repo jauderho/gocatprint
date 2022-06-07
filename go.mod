@@ -7,7 +7,7 @@ require (
 	github.com/go-ble/ble v0.0.0-20220207185428-60d1eecf2633
 	github.com/makeworld-the-better-one/dither/v2 v2.2.0
 	github.com/rs/zerolog v1.26.1
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.2
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd
 )
 
