@@ -6,7 +6,7 @@ require (
 	github.com/alexflint/go-arg v1.4.3
 	github.com/go-ble/ble v0.0.0-20220207185428-60d1eecf2633
 	github.com/makeworld-the-better-one/dither/v2 v2.2.0
-	github.com/rs/zerolog v1.27.0
+	github.com/rs/zerolog v1.28.0
 	github.com/stretchr/testify v1.7.5
 	golang.org/x/image v0.0.0-20220617043117-41969df76e82
 )
