@@ -8,7 +8,7 @@ require (
 	github.com/go-ble/ble v0.0.0-20220920230323-9a45bebfde4f
 	github.com/makeworld-the-better-one/dither/v2 v2.2.0
 	github.com/rs/zerolog v1.28.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	golang.org/x/image v0.0.0-20220902085622-e7cb96979f69
 )
 
