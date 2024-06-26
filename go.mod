@@ -9,7 +9,7 @@ require (
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
 	github.com/rs/zerolog v1.33.0
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/image v0.17.0
+	golang.org/x/image v0.18.0
 )
 
 require (
