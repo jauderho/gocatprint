@@ -2,7 +2,7 @@ module jo-m.ch/go/gocatprint
 
 go 1.23.0
 
-toolchain go1.24.1
+toolchain go1.25.0
 
 require (
 	github.com/aamcrae/webcam v0.0.0-20210915060337-934acc13bdc3
