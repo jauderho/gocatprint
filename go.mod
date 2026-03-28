@@ -9,9 +9,9 @@ require (
 	github.com/alexflint/go-arg v1.6.1
 	github.com/go-ble/ble v0.0.0-20240122180141-8c5522f54333
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
-	github.com/rs/zerolog v1.34.0
+	github.com/rs/zerolog v1.35.0
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/image v0.37.0
+	golang.org/x/image v0.38.0
 )
 
 require (
