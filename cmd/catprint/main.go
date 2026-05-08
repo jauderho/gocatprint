@@ -52,7 +52,7 @@ func mustSetDefaultDevice(f flags) {
 		return
 	}
 
-	for i := 0; i < 10; i++ {
+	for i := range 10 {
 		dev, err := linux.NewDevice(ble.OptDeviceID(i))
 		if err == nil {
 			ble.SetDefaultDevice(dev)

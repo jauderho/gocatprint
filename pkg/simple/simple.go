@@ -16,7 +16,7 @@ Package simple provides a simple wrapper around the printer API.
 */
 
 func setBleDefaultDevice() error {
-	for i := 0; i < 10; i++ {
+	for i := range 10 {
 		dev, err := linux.NewDevice(ble.OptDeviceID(i))
 		if err == nil {
 			ble.SetDefaultDevice(dev)

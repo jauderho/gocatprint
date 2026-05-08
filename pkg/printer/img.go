@@ -62,7 +62,7 @@ func byteEncode(row []bool) []int8 {
 	ret := []int8{}
 	for chunkStart := 0; chunkStart < len(row); chunkStart += 8 {
 		var b int8
-		for bitIx := 0; bitIx < 8; bitIx++ {
+		for bitIx := range 8 {
 			b |= bitEncode(chunkStart, bitIx)
 		}
 		ret = append(ret, b)
