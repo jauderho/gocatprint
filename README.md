@@ -1,4 +1,4 @@
-# Gocatprint
+# Gocatprint [FORKED]
 
 ![Demo](demo.gif)
 
