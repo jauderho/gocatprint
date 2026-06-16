@@ -16,8 +16,8 @@ import (
 
 	"github.com/alexflint/go-arg"
 	"github.com/rs/zerolog/log"
-	"jo-m.ch/go/gocatprint/internal/pkg/logging"
-	"jo-m.ch/go/gocatprint/pkg/simple"
+	"github.com/jauderho/gocatprint/internal/pkg/logging"
+	"github.com/jauderho/gocatprint/pkg/simple"
 )
 
 type flags struct {

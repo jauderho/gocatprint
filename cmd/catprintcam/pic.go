@@ -84,9 +84,9 @@ func Snap(config CamConfig) (image.Image, error) {
 	for i := 0; i < config.PicSkipFrames; i++ {
 		err = cam.WaitForFrame(timeout)
 
-		switch err.(type) {
-		case nil:
-		case *webcam.Timeout:
+		switch {
+		case err == nil:
+		case errors.Is(err, webcam.TimeoutError):
 			return nil, errors.New("camera timed out")
 		default:
 			return nil, err

@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/JuulLabs-OSS/cbgo v0.0.1/go.mod h1:L4YtGP+gnyD84w7+jN66ncspFRfOYB5aj9QSXaFHmBA=
-github.com/aamcrae/webcam v0.0.0-20210915060337-934acc13bdc3 h1:/hjpLUA9UPYvw3UjTxicqSCSwgT8AopL8/fWCUQMsQI=
-github.com/aamcrae/webcam v0.0.0-20210915060337-934acc13bdc3/go.mod h1:lvZZUi9WFHyN2jGu+DmqfD4D+ra0y6wUnWXnZbgAPl8=
+github.com/aamcrae/webcam v0.0.0-20260613055716-1051ef10be87 h1:rP9dCoj5D8/RQ1xPKo3fD1QU+H93DQ7G50mLmxSESHc=
+github.com/aamcrae/webcam v0.0.0-20260613055716-1051ef10be87/go.mod h1:lvZZUi9WFHyN2jGu+DmqfD4D+ra0y6wUnWXnZbgAPl8=
 github.com/alexflint/go-arg v1.6.1 h1:uZogJ6VDBjcuosydKgvYYRhh9sRCusjOvoOLZopBlnA=
 github.com/alexflint/go-arg v1.6.1/go.mod h1:nQ0LFYftLJ6njcaee0sU+G0iS2+2XJQfA8I062D0LGc=
 github.com/alexflint/go-scalar v1.2.0 h1:WR7JPKkeNpnYIOfHRa7ivM21aWAdHD0gEWHCx+WQBRw=

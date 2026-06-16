@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-ble/ble"
 	"github.com/go-ble/ble/linux"
-	"jo-m.ch/go/gocatprint/pkg/printer"
+	"github.com/jauderho/gocatprint/pkg/printer"
 )
 
 /*

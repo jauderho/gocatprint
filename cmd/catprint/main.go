@@ -23,8 +23,8 @@ import (
 	"github.com/go-ble/ble"
 	"github.com/go-ble/ble/linux"
 	"github.com/rs/zerolog/log"
-	"jo-m.ch/go/gocatprint/internal/pkg/logging"
-	"jo-m.ch/go/gocatprint/pkg/printer"
+	"github.com/jauderho/gocatprint/internal/pkg/logging"
+	"github.com/jauderho/gocatprint/pkg/printer"
 )
 
 type flags struct {

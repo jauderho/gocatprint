@@ -16,7 +16,7 @@ import (
 	_ "image/jpeg"
 	"os"
 
-	"jo-m.ch/go/gocatprint/pkg/simple"
+	"github.com/jauderho/gocatprint/pkg/simple"
 )
 
 func main() {

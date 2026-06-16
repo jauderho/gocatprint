@@ -1,9 +1,9 @@
-module jo-m.ch/go/gocatprint
+module github.com/jauderho/gocatprint
 
-go 1.26.3
+go 1.26.4
 
 require (
-	github.com/aamcrae/webcam v0.0.0-20210915060337-934acc13bdc3
+	github.com/aamcrae/webcam v0.0.0-20260613055716-1051ef10be87
 	github.com/alexflint/go-arg v1.6.1
 	github.com/go-ble/ble v0.0.0-20240122180141-8c5522f54333
 	github.com/makeworld-the-better-one/dither/v2 v2.4.0
